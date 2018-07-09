@@ -1,4 +1,4 @@
-// GraphIncidents.cpp: определяет точку входа для консольного приложения.
+// GraphIncidents.cpp: Г®ГЇГ°ГҐГ¤ГҐГ«ГїГҐГІ ГІГ®Г·ГЄГі ГўГµГ®Г¤Г  Г¤Г«Гї ГЄГ®Г­Г±Г®Г«ГјГ­Г®ГЈГ® ГЇГ°ГЁГ«Г®Г¦ГҐГ­ГЁГї.
 //
 #include "stdafx.h"
 #include <iostream>
@@ -8,7 +8,7 @@
 using namespace std;
 
 /*Algorithm complexity is O(N^2) calculations',
-where O - is certain constant of time and N - is count of vertexes*/
+where O - is complexity and N - is count of vertexes*/
 
 int main()
 {	
